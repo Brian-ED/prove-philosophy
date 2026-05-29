@@ -110,14 +110,18 @@ If sensations were impossible, then they would not be `Thing`s, since
 `Thing`s possibly exist by definition. However, dear reader,
 *you* do know that `Sensation`s are `Thing`s.
 
+The following "where" marks the end of the assumptions.
+```agda
+  where
+```
+
 ## Inferences
 
 ```agda
-  where
-
--- In the percieving of a threat, one can respond
 
 -- Change
---data _»_ : (a b : Universe) → Type where
+PossibleChange = (InExists OutExists : Thing → Type) → Type₁
 
+-- TODO Temporary goal:
+-- In the percieving of a threat, one can respond
 ```
