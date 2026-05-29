@@ -1,0 +1,7 @@
+name: aggression-bad
+depend: cubical
+include: .
+flags:
+  --no-load-primitives
+  --cubical
+  --guardedness
