@@ -1,3 +1,4 @@
+# Proving philosophy
 My goal is creating tools to describe my understanding of *the* universe.
 
 These tools for understanding the universe are made with the
