@@ -1,4 +1,4 @@
-name: aggression-bad
+name: prove-philosophy
 depend: cubical
 include: .
 flags:
