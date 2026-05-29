@@ -1,8 +1,10 @@
 # Proving philosophy
 My goal is creating tools to describe my understanding of *the* universe.
 
+## Intro
 These tools for understanding the universe are made with the
-[theorem prover](https://en.wikipedia.org/wiki/Automated_theorem_proving) Agda.
+[theorem prover](https://en.wikipedia.org/wiki/Automated_theorem_proving)
+[Agda](https://en.wikipedia.org/wiki/Agda_(programming_language)).
 I assume whatever the Agda Theorem Prover assumes by default, which
 I believe means a bit of modern math, including but not limited to
 [HoTT](https://en.wikipedia.org/wiki/Homotopy_type_theory)
@@ -22,6 +24,7 @@ which can then be verified/proved/demonstraited directly.
 I will be taking full advantage of this feature, so that
 all code you see here can be ran and verified.
 
+## Assumptions
 This document will formally/mathematically/objectively define words using
 the Agda programming language, and I will provide context
 for these definitons when it's practical. I am essentially starting off
@@ -109,6 +112,8 @@ Consider a `Thing` that is outside our world looking in. This thing
 is theoretically not affected by our time. Notice how I'm very
 intentionally not saying that it's possible or impossible that
 things can exist outside time, since I cannot prove either way yet.
+
+## Inferences
 
 ```agda
   where
