@@ -7,8 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+- MIT License
+
 ### Changed
 - `Thing`'s non-agda definition
+- changelog by adding "changelog" in additions for v1.0.0
 
 ## [1.0.0] - 2026-05-29
 
@@ -20,6 +24,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - `Sensation` definition
   - `TODO` for explaining imports
   - `TODO` for explaining what "any universe/world" means.
+- CHANGELOG.md
 
 ### Changed
 
