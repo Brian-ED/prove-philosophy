@@ -71,8 +71,8 @@ Now, I've defined `Thing` as a starting point, but a skeptical reader
 should be confused by what *exactly* I mean by a `Thing`.
 Like are `Thing`s only physical? Is `Type` a `Thing`?
 
-What I mean by `Thing` is that `Thing`s are everything that could potentially exist
-*in any universe/world* TODO.
+What I mean by `Thing` is that: whatever can potentially exist
+in any possible universe/world/existance is a `Thing`.
 To answer if things are physical, well, they don't neccessarily have to be.
 A dog is a thing, but a ghost is also a thing. By a ghost, I mean
 some person who moves around without being able to interact with any
@@ -80,8 +80,9 @@ some person who moves around without being able to interact with any
 because it is not a part of the universe I am describing.
 I could instead describe a universe which also has Agda inside it
 and then this agda has a "Type", but this "Type" is not the same
-as the literal `Type`. The key difference is one is being described
-by the other.
+as the literal `Type`. The key difference is that the literal `Type`
+is a concept/notion/abstraction that's used to describe, so is
+considered outside anything that's being described.
 
 
 My next assumption is that some `Thing`s are `Sensations`.
