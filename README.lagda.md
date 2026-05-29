@@ -18,7 +18,7 @@ Also, when I am lazy in explaining a broad topic, I link to explanations on
 [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia) or similar.
 
 Agda is designed to allow code to be placed inside markdown files,
-which can then be verified/proved/ran directly.
+which can then be verified/proved/demonstraited directly.
 I will be taking full advantage of this feature, so that
 all code you see here can be ran and verified.
 
