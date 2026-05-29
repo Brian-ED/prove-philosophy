@@ -16,15 +16,22 @@ anything in this document, feel free to contact me.
 Also, when I am lazy in explaining a broad topic, I link to explanations on
 [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia) or similar.
 
-This document will formally/mathematically define words using
+Agda is designed to allow code to be placed inside markdown files,
+which can then be verified/proved/ran directly.
+I will be taking full advantage of this feature, so that
+all code you see here can be ran and verified.
+
+This document will formally/mathematically/objectively define words using
 the Agda programming language, and I will provide context
 for these definitons when it's practical. I am essentially starting off
 by creating a dictionary. Whenever I am using an Agda-defined
 word, I highlight it like so: `Highlighted text`.
 
-Agda is designed to allow code to be placed inside markdown files,
-which can then be verified/proved directly.
-I will be taking full advantage of this feature.
+I will start out using normal/regular/understandable english
+with a lot of slashes to make sure a reader can figure out
+what I mean. Slashes in english are a short way to list synonyms,
+and 3 synonyms are useful because if one word is missinterpreted,
+the other two words should correct the missinterpretation.
 
 Agda code requires a module name:
 ```
@@ -32,7 +39,7 @@ open import Cubical.Core.Primitives -- TODO
 open import Cubical.Core.Glue
 open import Cubical.Data.Bool
 
-module Percept
+module README
 ```
 
 Agda allows listing assumptions after the above module decloration.
