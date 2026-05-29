@@ -11,10 +11,9 @@ do not know everything the Agda theorem prover assumes to be true.
 I will explain all code in this document with the assumption
 that the reader does not have any knowledge of Agda,
 Formal mathematics, or philosophy. A bit of programming experience
-will help a lot though. If you have
-a hard time understanding anything in this document,
-feel free to contact me. Also, when I am lazy in explaining
-a broad topic, I link to explanations on
+will help a lot though. If you have a hard time understanding
+anything in this document, feel free to contact me.
+Also, when I am lazy in explaining a broad topic, I link to explanations on
 [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia) or similar.
 
 This document will formally/mathematically define words using
@@ -29,7 +28,7 @@ I will be taking full advantage of this feature.
 
 Agda code requires a module name:
 ```
-open import Cubical.Core.Primitives
+open import Cubical.Core.Primitives -- TODO
 open import Cubical.Core.Glue
 open import Cubical.Data.Bool
 
