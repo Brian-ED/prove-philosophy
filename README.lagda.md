@@ -73,19 +73,27 @@ I am unable to describe all things.
 Now, I've defined `Thing` as a starting point, but a skeptical reader
 should be confused by what *exactly* I mean by a `Thing`.
 Like are `Thing`s only physical? Is `Type` a `Thing`?
+Are an apple and the seed inside it seperate `Thing`s?
 
 What I mean by `Thing` is that: whatever can potentially exist
 in any possible universe/world/existance is a `Thing`.
+
 To answer if things are physical, well, they don't neccessarily have to be.
 A dog is a thing, but a ghost is also a thing. By a ghost, I mean
 some person who moves around without being able to interact with any
-`Thing`s besides itself. To answer if `Type` is a thing, well, no,
+`Thing`s besides itself.
+
+To answer if `Type` is a `Thing`, well, no,
 because it is not a part of the universe I am describing.
 I could instead describe a universe which also has Agda inside it
 and then this agda has a "Type", but this "Type" is not the same
 as the literal `Type`. The key difference is that the literal `Type`
 is a concept/notion/abstraction that's used to describe, so is
 considered outside anything that's being described.
+
+To answer if an apple and its seed are different `Thing`s,
+all you need to consider is if they are exactly the same `Thing`.
+Since they aren't, they are different things.
 
 
 My next assumption is that some `Thing`s are `Sensations`.
