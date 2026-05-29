@@ -34,7 +34,7 @@ and 3 synonyms are useful because if one word is missinterpreted,
 the other two words should correct the missinterpretation.
 
 Agda code requires a module name:
-```
+```agda
 open import Cubical.Core.Primitives -- TODO
 open import Cubical.Core.Glue
 open import Cubical.Data.Bool
@@ -47,7 +47,7 @@ These will be used to make further proofs about the universe,
 inferred directly from assumptions.
 
 First assumption is that there are things.
-```
+```agda
   (Thing : Type)
 ```
 You can read the code above as `Thing is a Type`
@@ -86,7 +86,7 @@ by the other.
 My next assumption is that some `Thing`s are `Sensations`.
 By my earlier explanation, I hope it's obvious
 why sensations are things, since they could exist.
-```
+```agda
   (Sensation : Thing → Type)
 ```
 You know the drill, I will now explain `Sensation` reasonably precicely.
@@ -108,7 +108,7 @@ is theoretically not affected by our time. Notice how I'm very
 intentionally not saying that it's possible or impossible that
 things can exist outside time, since I cannot prove either way yet.
 
-```
+```agda
   where
 
 -- In the percieving of a threat, one can respond
