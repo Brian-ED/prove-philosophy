@@ -95,23 +95,12 @@ why sensations are things, since they could exist.
   (Sensation : Thing → Type)
 ```
 You know the drill, I will now explain `Sensation` reasonably precicely.
-`Sensation`s are possible inputs to a being. I need to *assume* these are things,
-and cannot prove it, because `Sensation`s don't neccessarily *have to* be `Thing`s.
+`Sensation`s are possible inputs to a being. I need to *assume*
+these are things, and cannot prove it, because `Sensation`s don't
+neccessarily *have to* be `Thing`s.
 If sensations were impossible, then they would not be `Thing`s, since
 `Thing`s possibly exist by definition. However, dear reader,
 *you* do know that `Sensation`s are `Thing`s.
-
-
-
-I won't assume any definition of existance yet because
-a thing could exist at some moments in time and not in others.
-So at least a notion of time has to be defined before being able
-to define existance, but I want a reader to also consider the
-possibility that other factors could change if something exists or not.
-Consider a `Thing` that is outside our world looking in. This thing
-is theoretically not affected by our time. Notice how I'm very
-intentionally not saying that it's possible or impossible that
-things can exist outside time, since I cannot prove either way yet.
 
 ## Inferences
 
