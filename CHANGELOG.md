@@ -9,12 +9,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 - MIT License
+- Section "## Agda Intro" and moved relevant text
+- Clarified intended reading order
 
 ### Changed
-- `Thing`'s non-agda definition
+- `Thing`'s non-agda definition to be clearer
 - changelog by adding "changelog" in additions for v1.0.0
 - Enabled Agda's --safe flag
 - Intro text
+- `Type` to `Type₀`
 
 ## [1.0.0] - 2026-05-29
 
