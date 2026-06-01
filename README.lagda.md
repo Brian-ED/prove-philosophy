@@ -1,8 +1,24 @@
 # Proving philosophy
-My goal is creating tools to describe my understanding of *the* universe.
+My goal is creating tools to formally describe my understanding of *the* universe.
 
 ## Intro
-These tools for understanding the universe are made with the
+The target audience are people interested in philosophy.
+My goal is improving on philosophical writing by
+formally definining it as I am writing it.
+I read how far mathematics has come in terms of
+it's commitment to consistency and rigor.
+Then when I read modern philosophy I am incredibly
+unimpressed. The modern philosophy I've read
+is usually written in a human language like English,
+and if it is written using symbols, the symbols are
+defined with English words that make hundreads
+of implicit assumptions. Another problem is that
+modern philosophy branches need unification,
+a way to describe all of them in one language
+so that one can prove relations between them.
+
+My goal is listing *ALL* my assumptions, and proving
+my inferences from the assumptions with the
 [theorem prover](https://en.wikipedia.org/wiki/Automated_theorem_proving)
 [Agda](https://en.wikipedia.org/wiki/Agda_(programming_language)).
 I assume whatever the Agda Theorem Prover assumes by default, which
